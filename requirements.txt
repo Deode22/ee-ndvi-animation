@@ -1,0 +1,8 @@
+earthengine-api==0.1.316
+geemap==0.10.2
+matplotlib==3.5.1
+Pillow==8.4.0
+numpy==1.21.4
+urllib3==1.26.7
+ipywidgets==7.6.5
+ipython==7.29.0
