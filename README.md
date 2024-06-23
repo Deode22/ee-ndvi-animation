@@ -1,9 +1,9 @@
 # Variación del *Sentinel 2 NDVI* en la Vegetación de España continental. 
 
 <div align="center">
-+------------------------------------------+
++--------------------------------------+
  Realizado a través de Google Earth Engine 
-+------------------------------------------+
++--------------------------------------+
 </div>
 
 ----
